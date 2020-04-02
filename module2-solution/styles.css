@@ -14,7 +14,7 @@ p {
   padding: 20px;
   font-weight: bold;
   text-align: justify;
-
+  background-color: #ffc
 
 }
 
@@ -47,44 +47,37 @@ p {
 }
 
 #menu1 {
-		width:80px;
-		height:30px;
-		background-color: #339900;
-		border: 1px solid black;
-		float:right;
-    padding: 5px;
-    font-weight: bold;
-    clear: both;
-
-
-	
-
+	width:80px;
+    	height:30px;
+	background-color: #339900;
+	border: 1px solid black;
+	float:right;
+    	padding: 5px;
+    	font-weight: bold;
+    	clear: both;
 
 }
 
 #menu2 {
-		width:80px;
-		height:30px;
-		background-color: #847593;
-		border: 1px solid black;
-		float:right;
-    padding: 5px;
-    font-weight: bold;
-    clear: both;
-
-
+	width:80px;
+	height:30px;
+	background-color: #847593;
+	border: 1px solid black;
+	float:right;
+    	padding: 5px;
+    	font-weight: bold;
+  	clear: both;
 }
 
 #menu3 {
-		width:80px;
-		height:30px;
-		background-color: #fff;
-		border: 1px solid black;
-		float:right;
-    padding: 5px;
-    font-weight: bold;
-    clear: both;
-
+	width:80px;
+	height:30px;
+	background-color: #fff;
+	border: 1px solid black;
+	float:right;
+   	padding: 5px;
+   	font-weight: bold;
+	clear: both;
 
 }
 
