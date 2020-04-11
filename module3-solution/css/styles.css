@@ -1,1 +1,78 @@
+* {
+  box-sizing: border-box;
 
+}
+
+body {
+  
+  background-color: #f5bc20;
+
+}
+
+
+#content {
+  padding: 1%;
+  background-color: #fafa48;
+  overflow: auto;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: justify;
+
+}
+span {
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+
+}
+
+h4 {
+  text-align: center;
+
+}
+
+#header-nav {
+  background-color: #ffc;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+
+  
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;}
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+
+#collapsable-nav {
+  text-align: center;
+  background-color: #dedcdc;
+  border-top: 1px solid black;
+
+}
+#collapsable-nav a, span {
+  font-family: 'Lora', serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  font-color: black;
+  text-align: center;
+}
+
+#collapsable-nav li {
+  border-bottom: 1px solid black;
+ 
+}
